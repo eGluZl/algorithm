@@ -1,0 +1,22 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "algorithm code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eGluZl",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eGluZl/algorithm.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "bugs": {
+    "url": "https://github.com/eGluZl/algorithm/issues"
+  },
+  "homepage": "https://github.com/eGluZl/algorithm#readme"
+}
